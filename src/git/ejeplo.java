@@ -10,7 +10,7 @@ package git;
  */
 public class ejeplo {
       public static void main(String[] args) {
-        System.out.println("Primera version del proyecto INVESTIGACION");
+        System.out.println("Segunda version del proyecto INVESTIGACION");
     }
 }
 
