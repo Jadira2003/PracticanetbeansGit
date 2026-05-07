@@ -10,7 +10,7 @@ package git;
  */
 public class ejeplo {
       public static void main(String[] args) {
-        System.out.println("Cambio realizado desde GitHub para probar Pull jadira");
+        System.out.println("Cambio realizado desde GitHub para probar Pull");
     }
 }
 
