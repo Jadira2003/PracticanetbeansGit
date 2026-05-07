@@ -10,8 +10,8 @@ package git;
  */
 public class ejeplo {
       public static void main(String[] args) {
-        System.out.println("solo agregue mi nombre y mi apellido");
-      hola como estas si recibi tus camibios
+        System.out.println("solo agregue mi nombre y mi ido");
+     
     }
 }
 
